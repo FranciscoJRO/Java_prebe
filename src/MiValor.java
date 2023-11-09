@@ -1,0 +1,6 @@
+
+    interface MiValor {
+        double getValor();
+    }
+
+
