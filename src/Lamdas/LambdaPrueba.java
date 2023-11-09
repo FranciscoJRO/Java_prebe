@@ -1,3 +1,4 @@
+package Lamdas;
 public class LambdaPrueba {
     public static void main(String[] args) {
         MiValor miValor = () -> 28.0;

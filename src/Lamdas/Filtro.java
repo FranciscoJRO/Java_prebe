@@ -1,3 +1,4 @@
+package Lamdas;
 import java.util.stream.IntStream;
 
 public class Filtro {

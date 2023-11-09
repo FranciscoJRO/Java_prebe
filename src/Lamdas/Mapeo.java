@@ -1,5 +1,7 @@
+package Lamdas;
 import java.util.Arrays;
 import java.util.List;
+
 
 public class Mapeo{
     public static void main(String[] args) {
